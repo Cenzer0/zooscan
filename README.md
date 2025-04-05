@@ -1,4 +1,4 @@
-# 🐉 Z00SCAN - Cyber Dragon Security Scanner
+# Z00SCAN - Cyber Dragon Security Scanner
 
 Z00SCAN is a powerful, lightweight, terminal-only security reconnaissance tool built in Python — inspired by Nmap but forged with a dragon soul 🐲
 
