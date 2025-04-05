@@ -1,0 +1,4 @@
+requests
+scapy
+dnspython
+geoip2
